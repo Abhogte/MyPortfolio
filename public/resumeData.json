@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Aditya Dattataray Bhogte",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "name": " Aditya Dattataray Bhogte",
+    "occupation": "",
+    "description": "MS in Computer Science at University of Texas at Arlington.",
+    "image": "Aditya.jpg",
+    "bio": "My name is Aditya, I'm a Graduate Student at University of Texas at Arlington. Having a six month of experience as a software developer Intern. Possessing a Good Technical skills and problem solving mindset. Currently looking for Software Developer, UX Developer, Cloud developer full-time opportunities starting May 2021",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "email": "abhogte@gmail.com",
+    "phone": "+1 682-365-7790",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "street": "507 Summit ave",
+      "city": "Arlington",
+      "state": "Texas",
+      "zip": "76013"
     },
     "website": "https://aditya-bhogte.netlify.app/",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
+        "url": "https://www.facebook.com/aditya.bhogte/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/adityabhogte/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
+        "url": "https://www.instagram.com/adityabhogte/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/Abhogte",
         "className": "fa fa-github"
       }
     ]
@@ -43,10 +43,20 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "University of Texas - Arlington ",
+        "degree": "Masters of Science in Computer Science",
+        "graduated": "May 2021",
+        "gpa": "3.64/4",
+        "majors": "",
+        "Courses": "Graduated with Distinction"
+      },
+      {
+        "school":"Excelssior Education Society's KC college of Engineering, Management & Research",
+        "degree": "Bachelor's in Information Technology",
+        "graduated": "May 2017",
+        "gpa": "7.18/10",
+        "description": "Graduated with Distinction",
+        "Courses": "Graduated with Distinction"
       }
     ],
     "work": [

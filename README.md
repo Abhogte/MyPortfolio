@@ -2,7 +2,7 @@
 
 
 
-## <a href="https://vigorous-hugle-2928a1.netlify.app" target="_blank">LIVE DEMO</a>
+## <a href="https://aditya-bhogte.netlify.app/" target="_blank">LIVE DEMO</a>
 
 ## Description
 ReactJS based personal resume Website for Aditya Dattatray Bhogte. 

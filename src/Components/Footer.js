@@ -17,14 +17,19 @@ class Footer extends Component {
            <ul className="social-links">
               {networks}
            </ul>
-
+           {/* <h1 style={{backgroundColor: "lightblue"}}>Hello Style!</h1> */}
+            <span><h1 style={{fontsize: "30px"}}>Visitor's Count</h1></span>
+           
+            <img src="https://hitwebcounter.com/counter/counter.php?page=7764185&style=0010&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" />                            
+                                              
            <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
+
+            <li>If you like my work, or you want to give a feedback, collabrate with me or I am in your thoughts or just want to say Hi!, Please feel free to contact me on the Given Contact Information.♥️</li>
            </ul>
 
            <ul className="copyright">
-              <li>&copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>&copy; Copyrights &copy; 2021 Aditya Dattatray Bhogte. All Rights Reserved </li>
+              <li>Design by <a title="Styleshout" href="https://www.linkedin.com/in/adityabhogte/">Aditya Dattatray Bhogte</a></li>
            </ul>
 
         </div>

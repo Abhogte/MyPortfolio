@@ -15,7 +15,7 @@
       "zip": "76013"
     },
     "website": "https://aditya-bhogte.netlify.app/",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "Aditya Dattatray Bhogte - Resume.pdf",
     "social": [
       {
         "name": "facebook",
@@ -47,30 +47,24 @@
         "degree": "Masters of Science in Computer Science",
         "graduated": "May 2021",
         "gpa": "3.64/4",
-        "majors": "",
-        "Courses": "Graduated with Distinction"
+        "majors": " Big Data Management, Databases and Cloud Computing; Software Engineering.",
+        "courses": "Web Data Management, Data Mining, Distributed Systems, Discrete Structures, Advanced Topics in Database Systems, Software Testing, Special Topis in Software Engineering, Python Programming, Computer Networks, Data Analysis and Algorithms, Data Analysis and Modelling Techniques."
       },
       {
         "school":"Excelssior Education Society's KC college of Engineering, Management & Research",
         "degree": "Bachelor's in Information Technology",
         "graduated": "May 2017",
         "gpa": "7.18/10",
-        "description": "Graduated with Distinction",
-        "Courses": "Graduated with Distinction"
+        "majors":" Information Technology",
+        "courses": "Cloud Computing, Big Data analytics, Data mining and business Intelligence, Advance Database management Systems, Web programming, Object Oriented programming methodology"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
-      },
-      {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
-        "description": "Helping businesses showing their best selves to clients."
+        "company": "Quality Kiosk",
+        "title": "Software Developer Intern",
+        "years": "Jan 2018 - July 2018",
+        "description": "Designed and Worked on development of Modules like creating layouts and designing for the webpages. Co-ordinated with the Team and Management for requirements of the project and better development of the website."
       }
     ],
     "skills": [
@@ -101,8 +95,8 @@
       {
         "title": "Zoom Clone with NodeJS",
         "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "image": "Ibra's Burher.png",
+        "url": "https://burgersongrill.ml/home"
       },
       {
         "title": "Robinhood Clone",

@@ -1,23 +1,21 @@
-# Clever Programmer ReactJS Portfolio Template      
+# Aditya Dattataray Bhogte Portfolio  
 
-![ReactJS Resume Website Template](resume-screenshot-naz.png?raw=true "ReactJS Resume Website Template")
+
 
 ## <a href="https://vigorous-hugle-2928a1.netlify.app" target="_blank">LIVE DEMO</a>
 
 ## Description
-This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
+ReactJS based personal resume Website for Aditya Dattatray Bhogte. 
 
-## Make it Your Own!
+
 #### PREREQUISITES:
-- Sign up for a Netlify account <a href='https://www.netlify.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+- You can Sign up for a Netlify account from <a href='https://www.netlify.com'>HERE</a>
+- Install the Node JS in your computer from <a href='https://nodejs.org/en/'>HERE</a>
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it
-Here is the link to download zip 👉
-<a href='https://github.com/CleverProgrammers/react-portfolio'>HERE</a>
-- Open the folder in VS Code
-- Edit <code>public/resumeData.json</code> and add your personal details and projects
-- Open terminal in VS Code
+Here is the link to download zip 👉<a href='https://github.com/Abhogte/MyPortfolio'>HERE</a>
+- Open the folder in VS Code or editor you are comfortable with.
+- Edit <code>public/resumeData.json</code> and add your personal details and projects of ypur own
 - RUN <code>npm init</code> , this command can be used to set up a new or existing npm package
 - RUN <code>npm install</code> , this command pulls out all the require node modules
 - RUN <code>npm run build</code>, this command will create a build folder for you
@@ -26,16 +24,9 @@ Here is the link to download zip 👉
 
 ## Credits
 
-#### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
+#### All Credits Goes to Author/Owner, make sure to give credits at bottom of your project if you implementing your portfolia using above Source code</a>
 
+#### Using Source Code without giving credits is an prohibited act, If found can subject to action against user.
 
+#### Some of the images are from Google, Image credit: Google.
 
-HTML Design Template
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
-
-Header photo credit
-<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
-
-Testimonial photo credit
-<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
-"# MyPortfolio" 

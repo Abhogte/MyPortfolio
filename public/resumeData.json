@@ -93,17 +93,11 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
+        "title": "Burger Website",
+        "category": "Restaurant Website",
         "image": "Ibra's Burher.png",
         "url": "https://burgersongrill.ml/home"
-      },
-      {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      }
+       }
     ]
   },
   "testimonials": {

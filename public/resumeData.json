@@ -69,24 +69,24 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "Languages :",
+        "list": "Python, Java, C, C++, Sql, "
       },
       {
         "name": "Python",
-        "level": "95%"
+        "list": "95%"
       },
       {
         "name": "Git",
-        "level": "75%"
+        "list": "75%"
       },
       {
         "name": "JavaScript",
-        "level": "100%"
+        "list": "100%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "list": "80%"
       }
     ]
   },

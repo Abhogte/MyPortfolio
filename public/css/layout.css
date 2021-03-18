@@ -292,24 +292,24 @@ ul#nav li.current a { color: #F06000; }
 	text-align: left;
 }
 .bars .skills {
-  	margin-top: 36px;
+  	/* margin-top: 36px; */
    list-style: none;
 }
-.bars li {
+/* .bars li {
    position: relative;
   	margin-bottom: 60px;
   	background: #ccc;
   	height: 42px;
-  	border-radius: 3px;
-}
+  	border-radius: 3px; */
+/* } */
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	/* font: 15px 'opensans-bold', sans-serif; */
    color: #313131;
-	text-transform: uppercase;
+	/* text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
+	top: -36px; */
 }
 .bar-expand {
    position: absolute;

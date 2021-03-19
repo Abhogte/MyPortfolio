@@ -69,24 +69,28 @@
     ],
     "skills": [
       {
-        "name": "Languages :",
-        "list": "Python, Java, C, C++, Sql, "
+        "name": "Programming Languages :",
+        "list": "Python, Java, SQL, C, C++, JavaScript, PHP."
       },
       {
-        "name": "Python",
-        "list": "95%"
+        "name": "Web Technologies & Frameworks :",
+        "list": "Python Flask, Laravel, Spring, ReactJS, Node.js, HTML/ HTML 5, CSS 3, Bootstrap, XML."
       },
       {
-        "name": "Git",
-        "list": "75%"
+        "name": "Database :",
+        "list": "MySQL, Oracle Database, MongoDB, SQL, Amazon RDS, Redis."
       },
       {
-        "name": "JavaScript",
-        "list": "100%"
+        "name": "Software Testing Technologies :",
+        "list": "Junit, Pit, Jacoco."
       },
       {
-        "name": "MongoDB",
-        "list": "80%"
+        "name": "Cloud Technologies :",
+        "list": "Amazon AWS, Microsoft Azure, IBM Cloud(Bluemix)."
+      },
+      {
+        "name": "Tools and Software :",
+        "list": ": IntelliJ IDEA, Eclipse IDE, Visual Studio Code, PyCharm, Jupyter Notebook WordPress, Selenium, GitHub Desktop, Code Pen, SQL Management Studio, MSSQL, Net Beans, Tomcat Server."
       }
     ]
   },
@@ -103,12 +107,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Coming Soon",
+        "user": "Coming soon"
       },
       {
-        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I can say Aditya is an intelligent focused engineer with a bright future ahead. The determination and work - ethics he possesses make him a prime candidate for a challenging job. He has a very good command of building a software project with his skills.",
+        "user": "Vishal Sakharpekar | Information Security Analyst at BNP PARIBAS ISPL"
       }
     ]
   }

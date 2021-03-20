@@ -140,6 +140,16 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
+.blinking{
+	animation:blinkingText 4s infinite;
+}
+@keyframes blinkingText{
+	0%{		color: red;	}
+	49%{	color: white;	}
+	50%{	color: white;	}
+	99%{	color:white;	}
+	100%{	color: blueviolet;	}
+}
 .opaque { background-color: #333; }
 
 /* hide toggle button */

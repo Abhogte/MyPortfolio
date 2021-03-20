@@ -101,6 +101,18 @@
         "category": "Restaurant Website",
         "image": "Ibra's Burher.png",
         "url": "https://burgersongrill.ml/home"
+       },
+       {
+        "title": "Github Projects",
+        "category": "All the project work",
+        "image": "GitImage.png",
+        "url": "https://github.com/Abhogte"
+       },
+       {
+        "title": "My Portfolio",
+        "category": "",
+        "image": "portfolioImage.png",
+        "url": "https://aditya-bhogte.netlify.app/"
        }
     ]
   },

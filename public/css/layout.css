@@ -150,6 +150,11 @@ header .scrolldown a:hover { color: #11ABB0; }
 	99%{	color:white;	}
 	100%{	color: blueviolet;	}
 }
+.designedBy{
+   color:#F06000 !important;
+   font-size: larger;
+   padding-left: 5px;
+}
 .opaque { background-color: #333; }
 
 /* hide toggle button */

@@ -29,7 +29,7 @@ class Footer extends Component {
 
            <ul className="copyright">
               <li>&copy; Copyrights &copy; 2021 Aditya Dattatray Bhogte. All Rights Reserved </li>
-              <li>Design by <a title="Styleshout" href="https://www.linkedin.com/in/adityabhogte/">Aditya Dattatray Bhogte</a></li>
+              <li>Design by <a className="designedBy" title="Styleshout" href="https://www.linkedin.com/in/adityabhogte/">Aditya Dattatray Bhogte</a></li>
            </ul>
 
         </div>

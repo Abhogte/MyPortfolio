@@ -670,7 +670,7 @@ call-to-action .button {
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
-
+   
    position: relative;
    min-height: 200px;
    width: 100%;
@@ -878,6 +878,7 @@ call-to-action .button {
    font-size: 15px;
    line-height: 24px;
    width: 65%;
+   resize: none;
 }
 #contact input:focus,
 #contact textarea:focus,

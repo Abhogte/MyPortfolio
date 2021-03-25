@@ -12,7 +12,7 @@ ReactJS based personal resume Website for Aditya Dattatray Bhogte.
 - You can Sign up for a Netlify account from <a href='https://www.netlify.com'>HERE</a>
 - Install the Node JS in your computer from <a href='https://nodejs.org/en/'>HERE</a>
 #### PROCEDURE:
-- Download the zip folder from Github and unzip it
+- Download the zip folder from Github and unzip it, follow the instructions.
 Here is the link to download zip 👉<a href='https://github.com/Abhogte/MyPortfolio'>HERE</a>
 - Open the folder in VS Code or editor you are comfortable with.
 - Edit <code>public/resumeData.json</code> and add your personal details and projects of ypur own
@@ -29,4 +29,6 @@ Here is the link to download zip 👉<a href='https://github.com/Abhogte/MyPortf
 #### Using Source Code without giving credits is an prohibited act, If found can subject to action against user.
 
 #### Some of the images are from Google, Image credit: Google.
+
+#### Hope you had a wounderful Day.
 

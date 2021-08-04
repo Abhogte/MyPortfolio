@@ -4,8 +4,8 @@
     "occupation": "",
     "description": "MS in Computer Science at University of Texas at Arlington.",
     "image": "Aditya.jpg",
-    "bio": "My name is Aditya, I'm a Graduate Student at University of Texas at Arlington. Having a six month of experience as a software developer Intern. Possessing a Good Technical skills and problem solving mindset. Currently looking for Software Developer, UX Developer, Cloud developer full-time opportunities starting May 2021",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "bio": "I introduce myself as Aditya Bhogte, a Graduated Student from The University of Texas at Arlington with a Master's of Science in Computer Science.  Having several months of software developer Intern & Software Engineer experience I Possess Good Technical  and a problem-solving mindset. Currently looking for Software Developer, Full Stack / Backend Developer, Cloud developer full-time opportunities.",
+    "contactmessage": "Get in touch with me to receive further details.",
     "email": "abhogte@gmail.com",
     "phone": "+1 682-365-7790",
     "address": {
@@ -61,20 +61,26 @@
     ],
     "work": [
       {
-        "company": "Quality Kiosk",
-        "title": "Software Developer Intern",
-        "years": "Jan 2018 - July 2018",
-        "description": "Designed and Worked on development of Modules like creating layouts and designing for the webpages. Co-ordinated with the Team and Management for requirements of the project and better development of the website."
+        "company": "IpserLab LLC",
+        "title": "Software Engineer - Mountain View, CA",
+        "years": "July 2021 - Present",
+        "description": "Participated in complete software development lifecycle, including requirement gathering, design, analysis. Collaborated effectively with various teams – DevOps team, backend development team and QA team. Analyzing the Deployment code, developing a specific component in a web page and Fixing bugs if available any. Developed single page web application using React.js & Node.js for food manufacturers to increase interaction with the producer."
+      } ,
+      {
+        "company": "K. S. Nalawade Construction Co",
+        "title": "Software Developer",
+        "years": "Jan 2018 - July 2019",
+        "description": "Designed and developed a tender software using java, Spring Boot, SQL which calculate project cost based on the item’s inputs. Integrated a time management system in the existing software which help to keep track employee progress, time management, create project schedule and organize tasks based on priorities. Planned with team members for the integration of modules in the project and created efficient final design. Co-ordinated with the Team and Management for requirements of the project and better development of the software . Analyzed and also solved the challenges like bug fixing  in the final phase of the project which reduce complaints by 60% that occurred in the final phase of development"
       }
     ],
     "skills": [
       {
         "name": "Programming Languages :",
-        "list": "Python, Java, SQL, C, C++, JavaScript, PHP."
+        "list": "Python, Java, SQL, JavaScript, PHP."
       },
       {
         "name": "Web Technologies & Frameworks :",
-        "list": "Python Flask, Laravel, Spring, ReactJS, Node.js, HTML/ HTML 5, CSS 3, Bootstrap, XML."
+        "list": "Python Flask, Laravel, Spring, ReactJS, Node.js, HTML 5, CSS 3, Bootstrap."
       },
       {
         "name": "Database :",

@@ -1,15 +1,15 @@
 {
   "main": {
     "name": " Aditya Dattataray Bhogte",
-    "occupation": "",
-    "description": "MS in Computer Science at University of Texas at Arlington.",
+    "occupation": "Software Developer",
+    "description": "MS in Computer Science at The University of Texas at Arlington",
     "image": "Aditya.jpg",
     "bio": "I introduce myself as Aditya Bhogte, a Graduated Student from The University of Texas at Arlington with a Master's of Science in Computer Science.  Having several months of software developer Intern & Software Engineer experience I Possess Good Technical  and a problem-solving mindset. Currently looking for Software Developer, Full Stack / Backend Developer, Cloud developer full-time opportunities.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "abhogte@gmail.com",
     "phone": "+1 682-365-7790",
     "address": {
-      "street": "507 Summit ave",
+      "street": "416 Summit ave, apt 203",
       "city": "Arlington",
       "state": "Texas",
       "zip": "76013"
@@ -61,15 +61,20 @@
     ],
     "work": [
       {
+        "company": "Tata Consultancy Services",
+        "title": "Software Engineer - Dallas, TX",
+        "years": "September 2021 - Present"
+      },
+      {
         "company": "IpserLab LLC",
         "title": "Software Engineer - Mountain View, CA",
-        "years": "July 2021 - Present",
+        "years": "July 2021 - September 2021",
         "description": "Participated in complete software development lifecycle, including requirement gathering, design, analysis. Collaborated effectively with various teams – DevOps team, backend development team and QA team. Analyzing the Deployment code, developing a specific component in a web page and Fixing bugs if available any. Developed single page web application using React.js & Node.js for food manufacturers to increase interaction with the producer."
       } ,
       {
         "company": "K. S. Nalawade Construction Co",
         "title": "Software Developer",
-        "years": "Jan 2018 - July 2019",
+        "years": "January 2018 - September 2018",
         "description": "Designed and developed a tender software using java, Spring Boot, SQL which calculate project cost based on the item’s inputs. Integrated a time management system in the existing software which help to keep track employee progress, time management, create project schedule and organize tasks based on priorities. Planned with team members for the integration of modules in the project and created efficient final design. Co-ordinated with the Team and Management for requirements of the project and better development of the software . Analyzed and also solved the challenges like bug fixing  in the final phase of the project which reduce complaints by 60% that occurred in the final phase of development"
       }
     ],
